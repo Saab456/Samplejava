@@ -1,9 +1,12 @@
-package HelloWorld;
-
-public class Main
-{
-    public static void main(String[] args)
-    {
-        System.out.println("Hello world");
-    }
+public class Hello{
+ 
+  public static void main(String args[]){
+ 
+    /*
+    Use System.out.println() to print on console.
+    */
+    System.out.println("Hello World !");
+  
+  }
+ 
 }
